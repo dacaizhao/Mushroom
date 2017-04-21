@@ -1,0 +1,6 @@
+framework module MFoundation {
+  umbrella header "MFoundation.h"
+
+  export *
+  module * { export * }
+}
